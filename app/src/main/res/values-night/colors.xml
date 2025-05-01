@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#F5F5F5</color>
+    <color name="white">#212121</color>
+    <color name ="anaRenk1gray">#F5F5F5</color>
+    <color name="anaRenk2black">#F5F5F5</color>
+    <color name="anaRenk3turuncu">#cc9070</color>
+    <color name ="textRenkwhite">#212121</color>
+    <color name = "kahverengi">#F5F5F5</color>
+    <color name ="koyugri">#F5F5F5</color>
+</resources>
